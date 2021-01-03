@@ -1,4 +1,4 @@
-# TASK-1 Prediction using Supervised ML ( Level - Begineer)
+# TASK-1 Prediction using Supervised ML ( Level - Beginner)
 
 
 > Made by Dhruv Desai
